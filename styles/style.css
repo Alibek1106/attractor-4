@@ -1,0 +1,227 @@
+.header{
+    padding: 10px 0 5px;
+    border-bottom: 2px solid #de2b24;
+}
+
+.logo{
+    float: left;
+    color: #424242;
+    font-size: 37px;
+    font-weight: bold;
+    background-image: url('./../img/logo.png');
+    background-repeat: no-repeat;
+    padding-left: 85px;
+}
+
+.btn-1{
+    float: right;
+    background-color: #de2b24;
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 5px 27px 7px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.main-nav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.main-nav li{
+    display: inline-block;
+}
+
+.main-nav a{
+    font-size: 15px;
+    color: #424242;
+    font-weight: bold;
+    margin-right: 45px;
+}
+
+.promo-block{
+    padding: 10% 0 12%;
+    background-image: url('./../img/main-pic.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+}
+
+.promo-title{
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.promo-title span{
+    font-size: 30px;
+    font-weight: normal;
+    display: block;
+    margin-top: -8px;
+}
+
+.btn-2{
+    font-size: 23px;
+    color: #fff;
+    font-weight: bold;
+    background-color: #f8cd53;
+    padding: 20px 40px;
+    border-radius: 4px;
+    margin-top: 25px;
+    text-transform: uppercase;
+}
+
+.about{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.title-block{
+    font-size: 36px;
+    color: #424242;
+    font-weight: bold;
+    line-height: 1;
+    text-align: center;
+}
+
+.description{
+    font-size: 20px;
+    color: #424242;
+    font-weight: bold;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.columns{
+    font-size: 0;
+}
+
+.column{
+    display: inline-block;
+    width: 33.3%;
+    font-size: 13px;
+    vertical-align: top;
+    padding: 10px 30px;
+}
+
+.column-title a{
+    font-size: 22px;
+    color: #424242;
+    font-weight: bold;
+    display: inline-block;
+    padding-top: 90px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    margin-bottom: 22px;
+}
+
+.marketing{
+    background-image: url('./../img/ic-hand.png');
+}
+
+.landing{
+    background-image: url('./../img/ic-book.png');
+}
+
+.management{
+    background-image: url('./../img/ic-comment.png');
+}
+
+.work{
+    background-color: #de2b24;
+    padding: 60px 0;
+}
+
+.work-gen{
+    background-color: #f35e59;
+    padding: 10px;
+    color: #fff;
+}
+
+.work-block p{
+    line-height: 1.8;
+    font-size: 14px;
+}
+
+.work-header h3, .work-header p{
+    color: #fff;
+}
+
+.work-block h4{
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-top: 30px;
+}
+
+.float-left{
+    float: left;
+    margin: 0 15px 15px 0;
+}
+
+.float-right{
+    float: right;
+    margin: 15px 0 0 15px;
+}
+
+.approach{
+    background-color: #f3f3f3;
+    padding: 60px 0;
+}
+
+.approach-gen{
+    background-color: #fff;
+}
+
+.approach-text h4{
+    font-size: 18px;
+    color: #424242;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.approach-text p{
+    color: #5c5c5c;
+    line-height: 2;
+}
+
+.approach-text{
+    padding-top: 8%;
+}
+
+.approach-left{
+    margin-right: 15px;
+}
+
+.approach-left h4, .approach-left p{
+    text-align: left;
+}
+
+.photo-1{
+    float: left;
+    margin-right: 60px;
+}
+
+.photo-2{
+    float: right;
+    margin-left: 60px;
+}
+
+.approach-right p, .approach-right h4{
+    text-align: end;
+    margin-left: 15px;
+}
+
+.footer{
+    background-color: #515151;
+    padding: 20px 0;
+}
+
+.footer-text{
+    text-align: right;
+    color: #cecece;
+}
